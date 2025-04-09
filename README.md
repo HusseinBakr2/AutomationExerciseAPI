@@ -1,4 +1,4 @@
-# -AutomationExerciseAPI
+# AutomationExerciseAPI
 
 # :gem: Automation Exercise - REST API Testing
 ## :diamond_shape_with_a_dot_inside: Automated API tests created in Postman
